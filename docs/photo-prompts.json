@@ -1,0 +1,307 @@
+{
+  "method": "built-in image_gen",
+  "createdDate": "2026-10-17",
+  "type": "AI-generated recipe illustrations in photorealistic style, not documentary school meal photographs",
+  "prompts": [
+    {
+      "id": "soka-wakame",
+      "title": "わかめごはん",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: わかめごはん. Ingredients: 精白米 3合; 炊き込みわかめ 大さじ3; 白いりごま 大さじ2; しらす干し 大さじ1. Preparation: 米を洗い、通常の水加減で炊く。 炊き上がりにわかめ、ごま、しらすを混ぜる。 しばらく蒸らして味をなじませる。"
+    },
+    {
+      "id": "soka-tofu",
+      "title": "とうふめし",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: とうふめし. Ingredients: 米 3合; 炊飯用しょうゆ 大さじ1; 炊飯用酒 小さじ1; 鶏ひき肉 50g; にんじん 1/3本; しめじ 1/2パック; エリンギ 1本; 木綿豆腐 1/3丁; 油揚げ 1枚; 具用しょうゆ 大さじ2; みりん 小さじ1; 砂糖 大さじ2; 油 小さじ1. Preparation: 米に炊飯用のしょうゆと酒を加え、水加減を調整して炊く。 にんじんを細切り、エリンギを短冊切りにし、しめじをほぐす。油揚げは油抜きして切り、豆腐は水切りする。 油で鶏肉を炒め、野菜ときのこ、崩した豆腐を加えて十分に加熱する。 具用の調味料と油揚げを加えて煮る。ごはんと混ぜて蒸らす。"
+    },
+    {
+      "id": "soka-hiyajiru",
+      "title": "冷や汁うどん",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 冷や汁うどん. Ingredients: うどん 4玉; きゅうり 2本; みょうが 2個; しょうゆ 大さじ4; みそ 大さじ4; みりん 大さじ4; 砂糖 大さじ4; 白すりごま 大さじ4; 冷水 560ml. Preparation: きゅうりとみょうがを薄く切る。 鍋で調味料とごまを混ぜて煮立たせ、冷水を加えて冷やす。 うどんを商品の表示に従ってゆで、流水で冷やす。 食べる直前につけ汁へ野菜を入れ、うどんを添える。"
+    },
+    {
+      "id": "soka-mushipan",
+      "title": "さつまいも蒸しパン",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: さつまいも蒸しパン. Ingredients: さつまいも 70g; 小麦粉 260g; ベーキングパウダー 15g; 砂糖 大さじ8; 卵 1個; サラダ油 小さじ2; 牛乳 220g; 耐熱カップ 8個. Preparation: いもを1cm角にして水にさらす。 砂糖と卵を混ぜ、牛乳と油を加える。 粉類をふるって加え、生地を作る。 耐熱カップの6〜7分目まで生地を分け、いもの水を切ってのせる。 15〜20分蒸し、竹串に生の生地がつかないことを確認する。"
+    },
+    {
+      "id": "soka-isoka",
+      "title": "磯香和え",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 磯香和え. Ingredients: 小松菜 200g; 白菜 200g; かつお節 3〜5g; しょうゆ 大さじ1; きざみのり 1.5g. Preparation: 小松菜を2〜3cm、白菜を短冊に切る。 それぞれゆでて冷まし、水気を切る。 しょうゆで味をつけ、かつお節とのりを混ぜる。"
+    },
+    {
+      "id": "soka-jagamaru",
+      "title": "じゃが丸くん",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: じゃが丸くん. Ingredients: じゃがいも 中3個; 塩 小さじ1/3; こしょう 少々; チーズ 60g; 片栗粉 大さじ1; 衣用小麦粉 100g; 衣用ベーキングパウダー 小さじ1; 衣用卵 1/2個; 衣用砂糖 大さじ2.5; 衣用水 50ml; 揚げ油 適量（調理用に補記）. Preparation: いもの皮をむいて切り、蒸して熱いうちにつぶす。 塩、こしょう、片栗粉、5mm角のチーズを混ぜ、8等分して丸める。 衣用の材料を別のボウルで混ぜる。 丸めたいもに衣をまとわせ、熱した油で衣の中心まで火が通るよう揚げる。"
+    },
+    {
+      "id": "fuji-ginger",
+      "title": "豚肉の生姜焼き",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 豚肉の生姜焼き. Ingredients: サラダ油 5g; しょうが 7g; 豚もも薄切り肉 200g; 酒 5g; にんじん 90g; 玉ねぎ 150g; しょうゆ 31g; きび砂糖 18g; 本みりん 4g; 片栗粉 3g; 片栗粉用の水 適量（原典に分量指定なし）. Preparation: しょうがを刻み、にんじんを細切り、玉ねぎを5mm幅に切る。肉に酒をなじませる。 油でしょうがの半量と豚肉を炒め、中心まで加熱する。 野菜を加えて炒め、調味料と残りのしょうがを混ぜる。 水溶き片栗粉を加え、加熱してとろみをつける。"
+    },
+    {
+      "id": "fuji-meat",
+      "title": "ミートソース",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: ミートソース. Ingredients: サラダ油 4g; にんにく 2g; しょうが 4g; 豚ひき肉 120g; 玉ねぎ 160g; にんじん 80g; 無塩の鶏ガラスープ 300ml（目安）; ハヤシフレーク 35g; チャツネ 20g; トマトピューレ 100g; デミグラスソース 120g; きび砂糖 10g; 塩 6g（原典量・ルウに応じて調整）; 白こしょう 0.16g. Preparation: にんにくとしょうがを刻み、玉ねぎを薄切り、にんじんを細切りにする。 油で香味野菜とひき肉を炒め、肉に火を通してから野菜を炒める。 スープを加えて煮て、アクを除く。 フレークと残りの調味料を加え、煮込む。塩は使用するルウの塩味を見ながら加減する。"
+    },
+    {
+      "id": "fuji-kiriboshi",
+      "title": "切り干し大根のごま塩サラダ",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 切り干し大根のごま塩サラダ. Ingredients: 切り干し大根 12g; きゅうり 80g; にんじん 60g; 塩中華ドレッシング 28g; 白いりごま 2g. Preparation: 切り干し大根を戻して切り、ゆでて冷まし、水気を絞る。 きゅうりとにんじんを細切りにし、ゆでて冷やして水を切る。 野菜を合わせ、ドレッシングとごまで和える。"
+    },
+    {
+      "id": "fuji-agepan",
+      "title": "きなこ揚げパン",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: きなこ揚げパン. Ingredients: コッペパンまたはロールパン 4個; 揚げ油 適量; きな粉 18g; 上白糖 30g; 塩 0.15g. Preparation: きな粉、砂糖、塩を混ぜてバットに広げる。 原典では200℃の油で約30秒、パンを転がしながら短時間揚げる。 油から取り出し、すぐにきな粉の衣をまとわせる。"
+    },
+    {
+      "id": "fuji-abc",
+      "title": "ABCスープ",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: ABCスープ. Ingredients: サラダ油 2g; にんにく 3g; セロリ 8g; ショルダーベーコン 30g; 鶏もも肉 30g; 白ワイン 4g; にんじん 50g; 玉ねぎ 120g; 鶏ガラスープ 500ml（目安）; じゃがいも 80g; ダイストマト缶 40g; 水煮大豆 40g; ABCマカロニ 20g; 塩 5g（原典量）; しょうゆ 2g; 白こしょう 適量; パセリ 2g. Preparation: にんにくを刻み、セロリは薄切り、にんじんは細切り、玉ねぎは薄切り、いもは1cm角にする。鶏肉に白ワインをなじませる。 油でにんにくとセロリを炒め、肉とベーコンを加えて火を通す。にんじんと玉ねぎも炒める。 スープを注いで煮て、いも、トマト、大豆、マカロニを加える。 具材が柔らかくなったら調味し、刻んだパセリを加える。"
+    },
+    {
+      "id": "fuji-saba",
+      "title": "さばのごまだれかけ",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: さばのごまだれかけ. Ingredients: さば 40g×4切れ; 衣用片栗粉 適量; 揚げ油 適量; ごま油 3g; しょうが 適量; 長ねぎ 30g; 砂糖 12g; しょうゆ 18g; 本みりん 12g; 酒 12g; 白すりごま 3g. Preparation: しょうがとねぎをみじん切りにする。 ごま油でしょうがとねぎを炒め、調味料とごまを加えてたれを作る。 さばに片栗粉をまぶす。原典では170℃の油で6〜7分を目安に揚げる。中心まで火が通ったことを確認する。 油を切り、ごまだれをかける。"
+    },
+    {
+      "id": "sample-001",
+      "title": "鮭のコーン焼き",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 鮭のコーン焼き. Ingredients: 鮭 2切れ; コーン 40g; マヨネーズ 大さじ1. Preparation: 鮭を耐熱皿に並べる。 コーンとマヨネーズを混ぜてのせる。 200℃のオーブンで約15〜20分焼き、中心まで十分に火を通す。"
+    },
+    {
+      "id": "sample-002",
+      "title": "きなこ揚げパン",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: きなこ揚げパン. Ingredients: コッペパン 2個; きなこ 大さじ2; 砂糖 大さじ1; 揚げ油 適量. Preparation: きなこと砂糖を混ぜる。 170℃の油でパンを短時間ずつ返して揚げる。 油を切り、温かいうちにきなこをまぶす。"
+    },
+    {
+      "id": "sample-003",
+      "title": "豆腐と野菜の炒めもの",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 豆腐と野菜の炒めもの. Ingredients: 木綿豆腐 200g; キャベツ 100g; にんじん 40g; 油 小さじ2; しょうゆ 小さじ2. Preparation: 豆腐の水を切り、一口大に切る。野菜を細切りにする。 油を熱し、にんじん、キャベツ、豆腐の順に炒める。 しょうゆを加え、全体が熱くなるまで炒める。"
+    },
+    {
+      "id": "sample-004",
+      "title": "鶏肉のみそ焼き",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 鶏肉のみそ焼き. Ingredients: 鶏もも肉 200g; みそ 大さじ1; みりん 大さじ1; 砂糖 小さじ1. Preparation: みそ、みりん、砂糖を混ぜ、鶏肉にからめる。 耐熱皿に並べ、200℃のオーブンで約20分焼く。 中心まで十分に火が通ったことを確認する。"
+    },
+    {
+      "id": "sample-005",
+      "title": "里いもの具だくさん汁",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 里いもの具だくさん汁. Ingredients: 里いも 150g; 大根 80g; にんじん 40g; だし 400ml; しょうゆ 小さじ2. Preparation: 里いもの皮をむき、一口大にする。大根とにんじんを切る。 だしで野菜を煮る。 柔らかくなったらしょうゆで調味する。"
+    },
+    {
+      "id": "sample-006",
+      "title": "切り干し大根のサラダ",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 切り干し大根のサラダ. Ingredients: 切り干し大根 20g; にんじん 40g; きゅうり 60g; 酢 小さじ2; しょうゆ 小さじ2; ごま油 小さじ1. Preparation: 切り干し大根を水で戻す。野菜を細切りにする。 切り干し大根とにんじんをゆで、冷まして水を切る。 きゅうりと調味料を加えて和える。"
+    },
+    {
+      "id": "sample-007",
+      "title": "野菜たっぷりカレー",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 野菜たっぷりカレー. Ingredients: ごはん 300g; じゃがいも 100g; 玉ねぎ 100g; にんじん 50g; カレールー 40g; 水 300ml; 油 小さじ1. Preparation: 野菜を一口大に切り、油で軽く炒める。 水を加え、野菜が柔らかくなるまで煮る。 火を止めてルーを溶かし、弱火でとろみをつけ、ごはんに添える。"
+    },
+    {
+      "id": "sample-008",
+      "title": "小松菜のごま和え",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 小松菜のごま和え. Ingredients: 小松菜 150g; すりごま 大さじ1; しょうゆ 小さじ2; 砂糖 小さじ1. Preparation: 小松菜をゆで、水に取って冷ます。 水をしぼって3cm幅に切る。 ごま、しょうゆ、砂糖で和える。"
+    },
+    {
+      "id": "sample-009",
+      "title": "枝豆ごはん",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 枝豆ごはん. Ingredients: 温かいごはん 300g; 冷凍むき枝豆 60g; 塩 少々. Preparation: 枝豆を商品の表示どおりに加熱する。 温かいごはんに混ぜる。 塩で味を調える。"
+    },
+    {
+      "id": "sample-010",
+      "title": "豆腐とわかめのみそ汁",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 豆腐とわかめのみそ汁. Ingredients: 豆腐 100g; 乾燥わかめ 2g; だし 400ml; みそ 大さじ1. Preparation: わかめを水で戻し、豆腐をさいの目に切る。 だしを温め、豆腐とわかめを加える。 具材が温まったら火を弱め、みそを溶く。"
+    },
+    {
+      "id": "sample-011",
+      "title": "みかんゼリー",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: みかんゼリー. Ingredients: みかんジュース 200ml; 粉ゼラチン 5g; 水 大さじ2. Preparation: ゼラチンを水でふやかす。 ジュースを沸騰させずに温め、ゼラチンを溶かす。 器に分け、冷蔵庫で3時間以上冷やす。"
+    },
+    {
+      "id": "sample-012",
+      "title": "じゃがいもの甘辛煮",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: じゃがいもの甘辛煮. Ingredients: じゃがいも 200g; しょうゆ 小さじ2; 砂糖 小さじ2; 水 150ml. Preparation: じゃがいもの皮をむき、一口大に切る。 鍋に水と調味料、じゃがいもを入れて煮る。 柔らかくなったら汁気を軽く飛ばす。"
+    },
+    {
+      "id": "original-001",
+      "title": "ココアプリン",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: ココアプリン. Ingredients: 牛乳 250ml; 純ココア 大さじ1; 砂糖 大さじ2; 粉ゼラチン 5g; 水 大さじ2. Preparation: ゼラチンを水に振り入れてふやかす。 鍋でココアと砂糖、少量の牛乳を練り混ぜ、残りの牛乳を加える。 沸騰させずに温め、火を止めてゼラチンを溶かす。 器に分け、粗熱を取って冷蔵庫で3時間以上冷やし固める。"
+    },
+    {
+      "id": "original-002",
+      "title": "チキンライス",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: チキンライス. Ingredients: ごはん 300g; 鶏もも肉 100g; 玉ねぎ 80g; にんじん 30g; ケチャップ 大さじ3; 油 小さじ2; 塩こしょう 少々. Preparation: 鶏肉を小さく切り、野菜をみじん切りにする。 油で鶏肉を炒め、中心まで火を通してから野菜を加える。 野菜が柔らかくなったらケチャップを加え、ごはんを炒め合わせて塩こしょうで調味する。"
+    },
+    {
+      "id": "original-003",
+      "title": "五目チャーハン",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 五目チャーハン. Ingredients: ごはん 300g; 卵 2個; ハム 40g; 長ねぎ 40g; にんじん 30g; 油 小さじ2; しょうゆ 小さじ2; 塩 少々. Preparation: ハムと野菜を小さく切り、にんじんを柔らかく下ゆでする。 油を熱し、溶いた卵を入れて炒め、ごはんと具材を加える。 卵の中心まで火が通るよう炒め、しょうゆと塩で味を調える。"
+    },
+    {
+      "id": "original-004",
+      "title": "焼きそば",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 焼きそば. Ingredients: 蒸し中華めん 2玉; 豚薄切り肉 100g; キャベツ 120g; にんじん 40g; もやし 80g; 中濃ソース 大さじ3; 油 小さじ2; 水 大さじ2. Preparation: 肉と野菜を食べやすく切る。 油で豚肉を炒め、中心まで火を通し、野菜を加えて炒める。 めんと水を加えてほぐし、全体を十分に加熱したらソースをからめる。"
+    },
+    {
+      "id": "original-005",
+      "title": "親子丼",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 親子丼. Ingredients: ごはん 300g; 鶏もも肉 150g; 玉ねぎ 100g; 卵 2個; だし 150ml; しょうゆ 大さじ1; みりん 大さじ1; 砂糖 小さじ1. Preparation: 鶏肉を小さく、玉ねぎを薄く切る。 だしと調味料で玉ねぎ、鶏肉を煮て、肉の中心まで火を通す。 溶き卵を加え、ふたをして卵が十分に固まるまで加熱し、ごはんにのせる。"
+    },
+    {
+      "id": "original-006",
+      "title": "豚肉のしょうが丼",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 豚肉のしょうが丼. Ingredients: ごはん 300g; 豚薄切り肉 150g; 玉ねぎ 100g; おろししょうが 小さじ1; しょうゆ 大さじ1; みりん 大さじ1; 油 小さじ1. Preparation: 豚肉を一口大、玉ねぎを薄切りにする。 油で玉ねぎと豚肉を炒め、豚肉の中心まで火を通す。 しょうが、しょうゆ、みりんを加えて煮からめ、ごはんに盛る。"
+    },
+    {
+      "id": "original-007",
+      "title": "ナポリタン",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: ナポリタン. Ingredients: スパゲティ 160g; ウインナー 60g; 玉ねぎ 100g; ピーマン 1個; ケチャップ 大さじ4; 油 小さじ2; 塩 少々. Preparation: めんを商品の表示に従ってゆでる。具材を薄く切る。 油で玉ねぎとウインナーを炒め、ピーマンを加える。 ケチャップを軽く炒め、めんを加えて混ぜ、塩で調味する。"
+    },
+    {
+      "id": "original-008",
+      "title": "塩昆布とコーンの混ぜごはん",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 塩昆布とコーンの混ぜごはん. Ingredients: ごはん 300g; コーン 60g; 塩昆布 8g; 白ごま 小さじ2. Preparation: コーンを商品の表示に従って加熱する。 温かいごはんにコーン、塩昆布、ごまを混ぜる。 数分置いて味をなじませる。"
+    },
+    {
+      "id": "original-009",
+      "title": "ツナチーズトースト",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: ツナチーズトースト. Ingredients: 食パン 2枚; ツナ水煮 70g; 玉ねぎ 30g; マヨネーズ 大さじ1; ピザ用チーズ 30g. Preparation: 玉ねぎを細かく刻み、水気を切ったツナとマヨネーズを混ぜる。 パンに具を広げ、チーズをのせる。 トースターでチーズが溶けて焼き色がつくまで焼く。"
+    },
+    {
+      "id": "original-010",
+      "title": "鶏肉の唐揚げ",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 鶏肉の唐揚げ. Ingredients: 鶏もも肉 250g; しょうゆ 大さじ1; 酒 大さじ1; おろししょうが 小さじ1; 片栗粉 大さじ3; 揚げ油 適量. Preparation: 鶏肉を一口大に切り、調味料をもみ込んで冷蔵庫で15分置く。 汁気を切り、片栗粉をまぶす。 170℃の油で揚げ、中心まで十分に火が通ったことを確認して油を切る。"
+    },
+    {
+      "id": "original-011",
+      "title": "豚肉と厚揚げのみそ炒め",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 豚肉と厚揚げのみそ炒め. Ingredients: 豚薄切り肉 120g; 厚揚げ 150g; キャベツ 120g; みそ 大さじ1; 砂糖 小さじ2; しょうゆ 小さじ1; 水 大さじ2; 油 小さじ1. Preparation: 肉と厚揚げ、キャベツを切り、みそと調味料、水を混ぜる。 油で豚肉を炒めて中心まで火を通し、厚揚げとキャベツを加える。 混ぜた調味料を加え、全体が熱くなるまで炒める。"
+    },
+    {
+      "id": "original-012",
+      "title": "煮込みハンバーグ",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 煮込みハンバーグ. Ingredients: 合いびき肉 200g; 玉ねぎ 80g; パン粉 大さじ3; 牛乳 大さじ2; 塩 少々; ケチャップ 大さじ3; 中濃ソース 大さじ1; 水 150ml; 油 小さじ1. Preparation: みじん切りの玉ねぎと肉、牛乳で湿らせたパン粉、塩をよく混ぜ、2個に成形する。 油を熱したフライパンで両面に焼き色をつける。 ケチャップ、ソース、水を加え、ふたをして弱火で煮る。中心まで十分に火が通ったことを確認する。"
+    },
+    {
+      "id": "original-013",
+      "title": "白身魚のフライ",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 白身魚のフライ. Ingredients: 白身魚 2切れ; 塩こしょう 少々; 小麦粉 大さじ2; 卵 1個; パン粉 適量; 揚げ油 適量. Preparation: 魚の水気を拭き、塩こしょうを振る。 小麦粉、溶き卵、パン粉の順に衣をつける。 170℃の油で揚げ、魚と衣の中心まで火を通して油を切る。"
+    },
+    {
+      "id": "original-014",
+      "title": "さばのみそ煮",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: さばのみそ煮. Ingredients: さば 2切れ; しょうが 10g; 水 150ml; 酒 大さじ2; みそ 大さじ1.5; 砂糖 大さじ1; みりん 大さじ1. Preparation: しょうがを薄切りにする。 水、酒、砂糖、みりん、しょうがを沸かし、さばを入れる。 みそを溶き、落としぶたをして弱めの中火で約15分煮る。中心まで火を通す。"
+    },
+    {
+      "id": "original-015",
+      "title": "肉じゃが",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 肉じゃが. Ingredients: 豚薄切り肉 120g; じゃがいも 250g; 玉ねぎ 100g; にんじん 60g; 水 250ml; しょうゆ 大さじ1.5; 砂糖 大さじ1; 油 小さじ1. Preparation: 野菜と肉を食べやすく切る。 油で肉を炒め、野菜を加えて軽く炒める。 水と調味料を加えて煮て、野菜が柔らかく、肉の中心まで火が通ったら完成。"
+    },
+    {
+      "id": "original-016",
+      "title": "麻婆豆腐",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 麻婆豆腐. Ingredients: 木綿豆腐 300g; 豚ひき肉 100g; 長ねぎ 40g; しょうが 5g; みそ 大さじ1; しょうゆ 小さじ2; 砂糖 小さじ1; 水 150ml; 片栗粉 小さじ2; 片栗粉用水 小さじ2; 油 小さじ1. Preparation: ねぎとしょうがを刻み、豆腐をさいの目に切る。 油で香味野菜と肉を炒め、肉に十分に火を通す。 水、みそ、しょうゆ、砂糖、豆腐を加えて煮る。 水溶き片栗粉を回し入れ、混ぜながら加熱してとろみをつける。"
+    },
+    {
+      "id": "original-017",
+      "title": "ポークビーンズ",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: ポークビーンズ. Ingredients: 豚肉 100g; 水煮大豆 120g; 玉ねぎ 100g; にんじん 50g; トマト缶 150g; 水 150ml; ケチャップ 大さじ1; 塩 少々; 油 小さじ1. Preparation: 肉と野菜を小さく切る。 油で肉と野菜を炒め、トマトと水を加えて煮る。 肉の中心まで火が通り、野菜が柔らかくなったら大豆とケチャップを加えて煮込み、塩で調味する。"
+    },
+    {
+      "id": "original-018",
+      "title": "鮭のホイル焼き",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 鮭のホイル焼き. Ingredients: 鮭 2切れ; 玉ねぎ 80g; しめじ 60g; にんじん 30g; バター 10g; しょうゆ 小さじ2. Preparation: 野菜を薄く切り、しめじをほぐす。 アルミホイルに野菜と鮭をのせ、バターとしょうゆを加えてしっかり包む。 耐熱皿に置いて200℃のオーブンで約20分焼き、鮭の中心まで火が通ったことを確認する。"
+    },
+    {
+      "id": "original-019",
+      "title": "ちくわのカレー揚げ",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: ちくわのカレー揚げ. Ingredients: ちくわ 4本; 小麦粉 大さじ3; カレー粉 小さじ1/2; 水 大さじ3; 揚げ油 適量. Preparation: ちくわを食べやすい大きさに切る。 小麦粉、カレー粉、水を混ぜて衣を作る。 ちくわに衣をつけて170℃の油で揚げ、衣までしっかり火を通す。"
+    },
+    {
+      "id": "original-020",
+      "title": "春雨サラダ",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 春雨サラダ. Ingredients: 春雨 30g; きゅうり 60g; にんじん 40g; ハム 40g; 酢 大さじ1; しょうゆ 小さじ2; 砂糖 小さじ1; ごま油 小さじ1. Preparation: 春雨を表示どおりにゆでて冷まし、短く切る。 にんじんを細切りにしてゆで、冷まして水を切る。きゅうりとハムも細切りにする。 調味料を混ぜ、すべての具材を和える。"
+    },
+    {
+      "id": "original-021",
+      "title": "ポテトサラダ",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: ポテトサラダ. Ingredients: じゃがいも 200g; にんじん 40g; きゅうり 60g; マヨネーズ 大さじ2; 塩こしょう 少々. Preparation: じゃがいもは皮をむいて切り、柔らかくゆでてつぶす。 にんじんを薄く切ってゆで、きゅうりも薄く切る。 いもとにんじんが冷めたら、きゅうりとマヨネーズを混ぜ、塩こしょうで調味する。"
+    },
+    {
+      "id": "original-022",
+      "title": "マカロニサラダ",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: マカロニサラダ. Ingredients: マカロニ 60g; にんじん 30g; きゅうり 60g; コーン 40g; マヨネーズ 大さじ2; 塩 少々. Preparation: マカロニを表示どおりにゆでて水を切る。 にんじんを細切りにしてゆで、コーンも加熱する。きゅうりは薄く切る。 加熱した材料を冷まし、きゅうりとマヨネーズを加えて塩で調味する。"
+    },
+    {
+      "id": "original-023",
+      "title": "ほうれん草の白和え",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: ほうれん草の白和え. Ingredients: ほうれん草 150g; にんじん 30g; 木綿豆腐 150g; 白すりごま 大さじ1; 砂糖 小さじ2; しょうゆ 小さじ2. Preparation: 豆腐をゆでて水切りし、冷ます。 ほうれん草と細切りのにんじんをそれぞれゆで、冷まして水を切る。ほうれん草を短く切る。 豆腐をつぶし、ごまと調味料を混ぜて野菜を和える。"
+    },
+    {
+      "id": "original-024",
+      "title": "大豆の甘辛炒め",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 大豆の甘辛炒め. Ingredients: 水煮大豆 150g; 片栗粉 大さじ1; 油 大さじ1; しょうゆ 小さじ2; 砂糖 小さじ2; 水 小さじ2. Preparation: 大豆の水気をよく拭き、片栗粉をまぶす。 フライパンに油を熱し、大豆の表面が香ばしくなるまで炒める。 しょうゆ、砂糖、水を加え、全体にからめながら加熱する。"
+    },
+    {
+      "id": "original-025",
+      "title": "ごぼうのきんぴら",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: ごぼうのきんぴら. Ingredients: ごぼう 120g; にんじん 50g; ごま油 小さじ2; しょうゆ 大さじ1; 砂糖 小さじ2; 水 大さじ3; 白ごま 小さじ1. Preparation: ごぼうとにんじんを細切りにする。 ごま油で炒め、水を加えてふたをし、柔らかくする。 しょうゆと砂糖を加えて汁気を軽く飛ばし、ごまを振る。"
+    },
+    {
+      "id": "original-026",
+      "title": "ブロッコリーのチーズ焼き",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: ブロッコリーのチーズ焼き. Ingredients: ブロッコリー 200g; ピザ用チーズ 40g; 牛乳 大さじ2; 塩 少々. Preparation: ブロッコリーを小房に分けて柔らかくゆでる。 水気を切って耐熱皿に入れ、牛乳と塩を加える。 チーズをのせ、トースターでチーズが溶けて色づくまで焼く。"
+    },
+    {
+      "id": "original-027",
+      "title": "もやしのナムル",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: もやしのナムル. Ingredients: もやし 200g; にんじん 30g; ごま油 小さじ2; しょうゆ 小さじ1; 塩 少々; 白ごま 小さじ2. Preparation: にんじんを細切りにする。 もやしとにんじんを十分にゆで、冷まして水気を切る。 ごま油、しょうゆ、塩、ごまで和える。"
+    },
+    {
+      "id": "original-028",
+      "title": "コーンクリームスープ",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: コーンクリームスープ. Ingredients: クリームコーン缶 180g; 玉ねぎ 60g; 牛乳 200ml; 水 100ml; バター 5g; 塩こしょう 少々. Preparation: 玉ねぎを細かく切る。 バターで玉ねぎを炒め、水を加えて柔らかく煮る。 コーンと牛乳を加えて弱火で温め、塩こしょうで調味する。"
+    },
+    {
+      "id": "original-029",
+      "title": "豚汁",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 豚汁. Ingredients: 豚薄切り肉 80g; 大根 100g; にんじん 40g; ごぼう 40g; だし 500ml; みそ 大さじ1.5; 油 小さじ1. Preparation: 肉と野菜を食べやすく切る。 油で肉と野菜を軽く炒め、だしを加えて煮る。 肉の中心まで火が通り、野菜が柔らかくなったら弱火にしてみそを溶く。"
+    },
+    {
+      "id": "original-030",
+      "title": "ミネストローネ",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: ミネストローネ. Ingredients: 玉ねぎ 80g; にんじん 50g; じゃがいも 100g; キャベツ 80g; トマト缶 150g; 水 350ml; 顆粒コンソメ 小さじ1; 油 小さじ1; 塩 少々. Preparation: 野菜を小さな角切りにする。 油で野菜を軽く炒め、トマトと水、コンソメを加える。 野菜が柔らかくなるまで煮て、塩で味を調える。"
+    },
+    {
+      "id": "original-031",
+      "title": "白菜のクリームシチュー",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 白菜のクリームシチュー. Ingredients: 鶏もも肉 100g; 白菜 150g; 玉ねぎ 80g; にんじん 40g; バター 10g; 小麦粉 大さじ1; 水 200ml; 牛乳 200ml; 塩こしょう 少々. Preparation: 肉と野菜を食べやすく切る。 バターで肉と野菜を炒め、小麦粉を振って粉っぽさがなくなるまで炒める。 水を少しずつ加えて煮て、肉の中心まで火を通す。 牛乳を加え、弱火でとろみがつくまで温めて調味する。"
+    },
+    {
+      "id": "original-032",
+      "title": "かきたま汁",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: かきたま汁. Ingredients: 卵 1個; 玉ねぎ 60g; えのき 50g; だし 400ml; しょうゆ 小さじ2; 片栗粉 小さじ1; 片栗粉用水 小さじ2. Preparation: 玉ねぎを薄く切り、えのきを短く切る。 だしで具材を柔らかく煮て、しょうゆを加える。 水溶き片栗粉を加えて煮立たせ、溶き卵を細く回し入れ、卵が十分に固まるまで加熱する。"
+    },
+    {
+      "id": "original-033",
+      "title": "豆乳みそスープ",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 豆乳みそスープ. Ingredients: 無調整豆乳 200ml; だし 200ml; キャベツ 100g; しめじ 60g; にんじん 30g; みそ 大さじ1. Preparation: キャベツとにんじんを切り、しめじをほぐす。 だしで野菜ときのこを柔らかく煮る。 豆乳を加えて弱火で温め、みそを溶く。煮立てすぎないようにする。"
+    },
+    {
+      "id": "original-034",
+      "title": "フルーツヨーグルト",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: フルーツヨーグルト. Ingredients: プレーンヨーグルト 200g; バナナ 1本; 缶詰みかん 60g; 砂糖 小さじ2. Preparation: バナナの皮をむいて一口大に切り、みかんの汁を切る。 ヨーグルトに砂糖を混ぜる。 果物を和えて器に分け、食べるまで冷蔵庫で冷やす。"
+    },
+    {
+      "id": "original-035",
+      "title": "牛乳寒天",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: 牛乳寒天. Ingredients: 牛乳 250ml; 水 150ml; 粉寒天 2g; 砂糖 大さじ2. Preparation: 鍋に水と寒天を入れ、沸騰後も混ぜながら約2分煮る。 砂糖を溶かし、別に温めた牛乳を加えて混ぜる。 器に分け、粗熱が取れたら冷蔵庫で冷やし固める。"
+    },
+    {
+      "id": "original-036",
+      "title": "スイートポテト",
+      "prompt": "Use case: photorealistic-natural. Asset: food photo for a Japanese school lunch recipe website. Create ONE natural, realistic food photograph. Simple ivory ceramic plate or bowl appropriate for this dish, light oak table, soft daylight from left, warm neutral color palette, three-quarter overhead view, entire dish visible with breathing room. Humble home-cooked Japanese school-lunch style, modest serving. No text, no people, no logos, no watermarks. Landscape 4:3 composition. Show only this dish, no side dishes or unrelated garnish. Accurately depict the listed main ingredients as the finished cooked dish, not raw ingredients. Dish: スイートポテト. Ingredients: さつまいも 250g; バター 10g; 砂糖 大さじ1; 牛乳 大さじ2〜3. Preparation: いもの皮をむいて切り、柔らかくゆでて水を切り、つぶす。 温かいうちにバターと砂糖、牛乳を少しずつ加えて成形できる固さにする。 4個に分けて耐熱カップに入れ、200℃のオーブンで約15分、表面に焼き色がつくまで焼く。"
+    }
+  ]
+}
