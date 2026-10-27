@@ -1,7 +1,211 @@
-<!doctype html><html lang="ja"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>きゅうしょく手帖 | 日本の給食をめぐる</title><link rel="stylesheet" href="style.css"></head><body>
-<header><a class="logo" href="./">▦ きゅうしょく手帖<span>KYUSHOKU NOTEBOOK</span></a><nav><a href="#explore">献立をさがす</a><button id="about">この手帖について ↗</button></nav><small>PROTOTYPE / 試作版</small></header>
-<main><section class="hero"><div><p class="eyebrow">60 RECIPES, COUNTLESS MEMORIES.</p><h1>あの日の給食から、<br>今日の一皿を。</h1><p class="intro">土地の味も、なつかしい一皿も。<br>主食からおやつまで、60のレシピを楽しもう。</p><a class="cta" href="#explore">献立をさがす <span>↓</span></a></div><div class="tray" aria-label="給食のイラスト"><div class="milk">MILK<br><b>牛乳</b><br>200ml</div><div class="dish rice">🍚</div><div class="dish fish">🐟<span>🥦 🥕</span></div><div class="dish soup">🥣</div><span class="chopsticks"></span><p>いただきます。から、はじまる旅。</p></div><div class="hero-note">NIPPON NO KYUSHOKU <span>01 — 60</span></div></section>
-<div class="notice"><span>献立・レシピ 全60件</span><p>公式出典付き12件と創作サンプル48件。写真はすべてAI生成イメージです。実際の提供記録ではありません。</p></div>
-<section class="spotlight"><div><p class="eyebrow">THE LUNCH RECIPE COLLECTION</p><h2>なつかしい味を、たっぷり60レシピ。</h2><p>ごはん、めん、肉・魚のおかず、サラダ、スープ、おやつまで。</p><small>提供年代は不明。公式レシピと創作サンプルを分けて収録しています。</small></div><button id="saitama">60件の献立をすべて見る →</button></section><section id="explore"><div class="section-title"><div><p class="eyebrow">EXPLORE THE MENU</p><h2>今日、どの献立にする？</h2></div><p>食べたい料理や食材から、一皿を見つける。</p></div>
-<div class="workspace"><aside><div class="filter-title"><b>絞り込み</b><button id="reset">すべてリセット</button></div><details class="advanced"><summary>地域・年代で絞り込む</summary><label>地方<select id="region"><option value="">すべての地方</option></select></label><label>都道府県<select id="pref"><option value="">全国すべて</option></select></label><label>市町村（公式レシピ）<select id="city"><option value="">すべての市町村</option></select></label><label>年代（5年刻み）<select id="era"><option value="">すべての年代</option></select></label></details><label>データの種類<select id="kind"><option value="">すべて</option><option value="sample">サンプル</option><option value="verified">公式レシピ（出典確認済み）</option></select></label><label>料理名・食材で検索<input id="search" type="search" placeholder="例：カレー、にんじん"></label><div class="aside-note"><b>データは、これから育つ手帖。</b><p>47都道府県を選択できます。データのない地域・年代は「未収録」と表示します。</p><p>公式レシピ：12件 / 創作：48件</p><p>公式レシピの公開年は提供年とは異なります。</p><p id="storageNote"></p></div></aside><div class="results"><div class="browse-tools"><label class="check"><input id="favoriteOnly" type="checkbox">お気に入りのみ <span id="favoriteCount">0</span></label><label class="sort-label">並び順<select id="sort"><option value="">公式レシピを先に</option><option value="name">料理名順</option></select></label><button id="random">今日の一皿を選ぶ ↗</button></div><div id="tabs" class="tabs" aria-label="献立分類"></div><div class="result-meta"><p><b id="count"></b> <span id="context"></span></p><span>公式出典・サンプルを区別 / 写真はAI生成</span></div><div id="cards" class="cards"></div></div></div></section><section class="footnote"><span>給食の思い出を、今日の食卓に。</span><p>記録のある給食を、少しずつ。出典とともに残していくアーカイブを目指しています。</p></section></main><footer><b>▦ きゅうしょく手帖</b><span>学校給食をめぐる、小さなアーカイブ。 / PROTOTYPE</span></footer>
-<dialog id="detail"><button class="close" aria-label="閉じる">×</button><div id="detailBody"></div></dialog><script type="module" src="app.js"></script></body></html>
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>きゅうしょく手帖 | 日本の給食をめぐる</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <a class="logo" href="./">
+    ▦ きゅうしょく手帖
+    <span>KYUSHOKU NOTEBOOK</span>
+  </a>
+  <nav>
+    <a href="#explore">献立をさがす</a>
+    <button id="about">この手帖について ↗</button>
+  </nav>
+  <small>PROTOTYPE / 試作版</small>
+</header>
+
+<main>
+  <section class="hero">
+    <div>
+      <p class="eyebrow">60 RECIPES, COUNTLESS MEMORIES.</p>
+      <h1>あの日の給食から、<br>今日の一皿を。</h1>
+      <p class="intro">
+        土地の味も、なつかしい一皿も。<br>
+        主食からおやつまで、60のレシピを楽しもう。
+      </p>
+      <a class="cta" href="#explore">
+        献立をさがす <span>↓</span>
+      </a>
+    </div>
+
+    <div class="tray" aria-label="給食のイラスト">
+      <div class="milk">MILK<br><b>牛乳</b><br>200ml</div>
+      <div class="dish rice">🍚</div>
+      <div class="dish fish">🐟<span>🥦 🥕</span></div>
+      <div class="dish soup">🥣</div>
+      <span class="chopsticks"></span>
+      <p>いただきます。から、はじまる旅。</p>
+    </div>
+
+    <div class="hero-note">
+      NIPPON NO KYUSHOKU <span>01 — 60</span>
+    </div>
+  </section>
+
+  <div class="notice">
+    <span>献立・レシピ 全60件</span>
+    <p>
+      公式出典付き12件と創作サンプル48件。
+      写真はすべてAI生成イメージです。実際の提供記録ではありません。
+    </p>
+  </div>
+
+  <section class="spotlight">
+    <div>
+      <p class="eyebrow">THE LUNCH RECIPE COLLECTION</p>
+      <h2>なつかしい味を、たっぷり60レシピ。</h2>
+      <p>ごはん、めん、肉・魚のおかず、サラダ、スープ、おやつまで。</p>
+      <small>
+        提供年代は不明。公式レシピと創作サンプルを分けて収録しています。
+      </small>
+    </div>
+    <button id="saitama">60件の献立をすべて見る →</button>
+  </section>
+
+  <section id="explore">
+    <div class="section-title">
+      <div>
+        <p class="eyebrow">EXPLORE THE MENU</p>
+        <h2>今日、どの献立にする？</h2>
+      </div>
+      <p>食べたい料理や食材から、一皿を見つける。</p>
+    </div>
+
+    <div class="workspace">
+      <aside>
+        <div class="filter-title">
+          <b>絞り込み</b>
+          <button id="reset">すべてリセット</button>
+        </div>
+
+        <details class="advanced">
+          <summary>地域・年代で絞り込む</summary>
+
+          <label>
+            地方
+            <select id="region">
+              <option value="">すべての地方</option>
+            </select>
+          </label>
+
+          <label>
+            都道府県
+            <select id="pref">
+              <option value="">全国すべて</option>
+            </select>
+          </label>
+
+          <label>
+            市町村（公式レシピ）
+            <select id="city">
+              <option value="">すべての市町村</option>
+            </select>
+          </label>
+
+          <label>
+            年代（5年刻み）
+            <select id="era">
+              <option value="">すべての年代</option>
+            </select>
+          </label>
+        </details>
+
+        <label>
+          データの種類
+          <select id="kind">
+            <option value="">すべて</option>
+            <option value="sample">サンプル</option>
+            <option value="verified">公式レシピ（出典確認済み）</option>
+          </select>
+        </label>
+
+        <label>
+          料理名・食材で検索
+          <input
+            id="search"
+            type="search"
+            placeholder="例：カレー、にんじん">
+        </label>
+
+        <div class="aside-note">
+          <b>データは、これから育つ手帖。</b>
+          <p>
+            47都道府県を選択できます。
+            データのない地域・年代は「未収録」と表示します。
+          </p>
+          <p>公式レシピ：12件 / 創作：48件</p>
+          <p>公式レシピの公開年は提供年とは異なります。</p>
+          <p id="storageNote"></p>
+        </div>
+      </aside>
+
+      <div class="results">
+        <div class="browse-tools">
+          <label class="check">
+            <input id="favoriteOnly" type="checkbox">
+            お気に入りのみ
+            <span id="favoriteCount">0</span>
+          </label>
+
+          <label class="sort-label">
+            並び順
+            <select id="sort">
+              <option value="">公式レシピを先に</option>
+              <option value="name">料理名順</option>
+            </select>
+          </label>
+
+          <button id="random">今日の一皿を選ぶ ↗</button>
+        </div>
+
+        <div id="tabs" class="tabs" aria-label="献立分類"></div>
+
+        <div class="result-meta">
+          <p>
+            <b id="count"></b>
+            <span id="context"></span>
+          </p>
+          <span>公式出典・サンプルを区別 / 写真はAI生成</span>
+        </div>
+
+        <div id="cards" class="cards"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="footnote">
+    <span>給食の思い出を、今日の食卓に。</span>
+    <p>
+      記録のある給食を、少しずつ。
+      出典とともに残していくアーカイブを目指しています。
+    </p>
+  </section>
+</main>
+
+<footer>
+  <b>▦ きゅうしょく手帖</b>
+  <span>学校給食をめぐる、小さなアーカイブ。 / PROTOTYPE</span>
+</footer>
+
+<dialog id="detail">
+  <button class="close" aria-label="閉じる">×</button>
+  <div id="detailBody"></div>
+</dialog>
+
+<script type="module" src="app.js"></script>
+
+<!-- アクセス解析 -->
+<script
+  data-goatcounter="https://se0810.goatcounter.com/count"
+  async
+  src="https://gc.zgo.at/count.js">
+</script>
+
+</body>
+</html>
